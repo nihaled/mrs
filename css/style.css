@@ -61,6 +61,8 @@
 @import url("../icons/flaticon/flaticon.css");
 @import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Playfair+Display:wght@400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+
 :root {
   --primary: #D54400;
   --secondary: #FF7468;
@@ -77,8 +79,8 @@
   --rgba-primary-7: rgba(213, 68, 0, 0.7);
   --rgba-primary-8: rgba(213, 68, 0, 0.8);
   --rgba-primary-9: rgba(213, 68, 0, 0.9);
-  --font-family-base: Poppins, sans-serif;
-  --font-family-title: Poppins, sans-serif;
+  --font-family-base: 'Lato', sans-serif;
+  --font-family-title: 'Lato', sans-serif;
   --border-radius-base: 6px;
   --title: #050d36; }
 
